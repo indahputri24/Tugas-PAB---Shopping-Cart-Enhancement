@@ -41,8 +41,13 @@ Prodi: Sistem Informasi
 <img width="3200" height="2000" alt="Cuplikan layar 2026-02-24 095310" src="https://github.com/user-attachments/assets/12b8b3bd-198d-43b4-b23d-8d1784101e74" />
 
 ### 2. Categories (Filter products by category)
+#### Kategori Aksesoris
 
 <img width="3200" height="2000" alt="Cuplikan layar 2026-02-24 095206" src="https://github.com/user-attachments/assets/c4ed80d9-d5d0-468d-9e64-959ed34b22b4" />
+
+#### Kategori Elektronik
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/e1e8d62b-52d7-480d-ab51-cdec27854c4b" />
 
 ### 3. Checkout Page (Order summary + form)
 
